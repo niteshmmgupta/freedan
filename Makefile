@@ -1,4 +1,4 @@
-.PHONY: test clean env check-testdata-uptodate regenerate run
+.PHONY: test clean env run
 .DELETE_ON_ERROR:
 
 # build directory 
