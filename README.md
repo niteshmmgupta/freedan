@@ -6,7 +6,7 @@ Freedan is a Python tool designed to streamline reconnaissance efforts during bu
 - Extracts IP addresses from Shodan using different dorks or search queries.
 - Utilizes Shodan facet for efficient data extraction.
 - No active subscription or login required, offering unrestricted access to reconnaissance capabilities.
-- Enables the extraction of 1000+ IP addresses, surpassing the limitations imposed by Shodan for non-subscribers.
+- Enables the extraction upto 1000 IP addresses, surpassing the limitations imposed by Shodan for non-subscribers.
 
 ## Installation
 
@@ -81,3 +81,11 @@ Freedan is a Python tool designed to streamline reconnaissance efforts during bu
 
 </br>**Note**</br>
 Please note that Freedan is my first tool. While I've put effort into ensuring its functionality, there may be some issues. I am open to any constructive suggestions or contributions to enhance and refine the tool. Your feedback is valued, and I encourage users to utilize Freedan responsibly.
+
+</br>**Disclaimer:**</br>
+
+This tool is designed to provide an accessible resource for beginners who may not have the means to subscribe to Shodan's premium services. It utilizes Shodan facets to gather publicly available data that is already shared by Shodan. It is essential to note the following:
+
+- Limited Scope: This tool fetches data within the limitations of Shodan facets and does not access any information beyond what is publicly available.
+- Encouragement for Shodan Subscription: Users who can afford a Shodan subscription are encouraged to explore the full range of features and benefits that come with it. A Shodan subscription offers a more comprehensive and in-depth experience.
+- Legal and Ethical Use: Users are responsible for ensuring the legal and ethical use of this tool. It is crucial to comply with all applicable laws and regulations while using the tool.
